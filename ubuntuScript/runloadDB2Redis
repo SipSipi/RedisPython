@@ -1,0 +1,6 @@
+# How to run loadDB2REDIS
+# The first for initial load from mySQL80
+python3 loadDB2edis.py
+
+# For update REDIs based on lambda idea
+python3 updateRedis.py

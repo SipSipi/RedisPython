@@ -1,0 +1,64 @@
+2022-11-01 16:04:05,761:INFO:_internal.py -  * Running on http://127.0.0.1:5001 (Press CTRL+C to quit)
+2022-11-01 16:11:16,955:ERROR:app.py - Exception on /claim/saved [POST]
+Traceback (most recent call last):
+  File "C:\Users\TUF\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\TUF\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1526, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\TUF\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1545, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\TUF\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1701, in make_response
+    raise TypeError(
+TypeError: The view function for 'funcSaveClaims' did not return a valid response. The function either returned None or ended without a return statement.
+2022-11-01 16:11:16,956:INFO:_internal.py - 127.0.0.1 - - [01/Nov/2022 16:11:16] "[35m[1mPOST //claim/saved?write=insert&source_stage=draft&draft_uuid=4ca867b0-59b4-11ed-9819-02c9dcd6ed1e HTTP/1.1[0m" 500 -
+2022-11-01 16:11:23,665:ERROR:app.py - Exception on /claim/saved [POST]
+Traceback (most recent call last):
+  File "C:\Users\TUF\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\TUF\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1526, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\TUF\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1545, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\TUF\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1701, in make_response
+    raise TypeError(
+TypeError: The view function for 'funcSaveClaims' did not return a valid response. The function either returned None or ended without a return statement.
+2022-11-01 16:11:23,665:INFO:_internal.py - 127.0.0.1 - - [01/Nov/2022 16:11:23] "[35m[1mPOST /claim/saved?write=insert&source_stage=draft&draft_uuid=4ca867b0-59b4-11ed-9819-02c9dcd6ed1e HTTP/1.1[0m" 500 -
+2022-11-01 16:11:25,677:ERROR:app.py - Exception on /claim/saved [POST]
+Traceback (most recent call last):
+  File "C:\Users\TUF\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\TUF\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1526, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\TUF\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1545, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\TUF\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1701, in make_response
+    raise TypeError(
+TypeError: The view function for 'funcSaveClaims' did not return a valid response. The function either returned None or ended without a return statement.
+2022-11-01 16:11:25,678:INFO:_internal.py - 127.0.0.1 - - [01/Nov/2022 16:11:25] "[35m[1mPOST /claim/saved?write=insert&source_stage=draft&draft_uuid=4ca867b0-59b4-11ed-9819-02c9dcd6ed1e HTTP/1.1[0m" 500 -
+2022-11-01 16:11:59,573:ERROR:app.py - Exception on /claim/saved [POST]
+Traceback (most recent call last):
+  File "C:\Users\TUF\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\TUF\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1526, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\TUF\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1545, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\TUF\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1701, in make_response
+    raise TypeError(
+TypeError: The view function for 'funcSaveClaims' did not return a valid response. The function either returned None or ended without a return statement.
+2022-11-01 16:11:59,574:INFO:_internal.py - 127.0.0.1 - - [01/Nov/2022 16:11:59] "[35m[1mPOST /claim/saved?write=insert&source_stage=draft&draft_uuid=4ca867b0-59b4-11ed-9819-02c9dcd6ed1e HTTP/1.1[0m" 500 -
+2022-11-01 16:13:16,668:INFO:_internal.py - 127.0.0.1 - - [01/Nov/2022 16:13:16] "POST /claim/saved?write=insert&source_stage=draft&draft_uuid=4ca867b0-59b4-11ed-9819-02c9dcd6ed1e HTTP/1.1" 200 -
+2022-11-01 16:13:50,892:INFO:_internal.py - 127.0.0.1 - - [01/Nov/2022 16:13:50] "POST /claim/saved?write=insert&source_stage=draft&draft_uuid=4ca867b0-59b4-11ed-9819-02c9dcd6ed1e HTTP/1.1" 200 -
+2022-11-01 16:14:17,290:INFO:_internal.py - 127.0.0.1 - - [01/Nov/2022 16:14:17] "POST /claim/saved?write=insert&source_stage=draft&draft_uuid=4ca867b0-59b4-11ed-9819-02c9dcd6ed1e HTTP/1.1" 200 -
+2022-11-01 16:15:26,739:INFO:_internal.py - 127.0.0.1 - - [01/Nov/2022 16:15:26] "POST /claim/saved?write=insert&source_stage=draft&draft_uuid=3d9e5f23-59bd-11ed-9819-02c9dcd6ed1e HTTP/1.1" 200 -
+2022-11-01 16:16:15,441:INFO:_internal.py - 127.0.0.1 - - [01/Nov/2022 16:16:15] "POST /claim/saved?write=insert&source_stage=draft&draft_uuid=3d9e5f23-59bd-11ed-9819-02c9dcd6ed1e HTTP/1.1" 200 -
+2022-11-01 16:20:17,822:INFO:_internal.py -  * Running on http://127.0.0.1:5001 (Press CTRL+C to quit)
+2022-11-01 16:20:27,684:INFO:_internal.py - 127.0.0.1 - - [01/Nov/2022 16:20:27] "POST /claim/saved?write=insert&source_stage=draft&draft_uuid=3d9e5f23-59bd-11ed-9819-02c9dcd6ed1e HTTP/1.1" 200 -
+2022-11-01 16:20:31,221:INFO:_internal.py - 127.0.0.1 - - [01/Nov/2022 16:20:31] "POST /claim/saved?write=insert&source_stage=draft&draft_uuid=3d9e5f23-59bd-11ed-9819-02c9dcd6ed1e HTTP/1.1" 200 -
+2022-11-01 16:22:20,792:INFO:_internal.py -  * Running on http://127.0.0.1:5001 (Press CTRL+C to quit)
+2022-11-01 16:22:28,836:INFO:_internal.py - 127.0.0.1 - - [01/Nov/2022 16:22:28] "[31m[1mPOST /claim/saved?write=insert&source_stage=draft&draft_uuid=3d9e5f23-59bd-11ed-9819-02c9dcd6ed1e HTTP/1.1[0m" 422 -
+2022-11-01 16:23:08,233:INFO:_internal.py - 127.0.0.1 - - [01/Nov/2022 16:23:08] "[31m[1mPOST /claim/saved?write=insert&draft_uuid=3d9e5f23-59bd-11ed-9819-02c9dcd6ed1e HTTP/1.1[0m" 422 -
+2022-11-01 16:23:13,039:INFO:_internal.py - 127.0.0.1 - - [01/Nov/2022 16:23:13] "[31m[1mPOST /claim/saved?write=insert&source_stage=draft&draft_uuid=3d9e5f23-59bd-11ed-9819-02c9dcd6ed1e HTTP/1.1[0m" 422 -
+2022-11-01 16:23:18,450:INFO:_internal.py - 127.0.0.1 - - [01/Nov/2022 16:23:18] "[31m[1mPOST /claim/saved?write=insert&source_stage=draft HTTP/1.1[0m" 422 -
+2022-11-01 16:23:20,510:INFO:_internal.py -  * Running on http://127.0.0.1:5001 (Press CTRL+C to quit)
+2022-11-01 16:23:29,350:INFO:_internal.py - 127.0.0.1 - - [01/Nov/2022 16:23:29] "[31m[1mPOST /claim/saved?write=insert&source_stage=draft&draft_uuid=3d9e5f23-59bd-11ed-9819-02c9dcd6ed1e HTTP/1.1[0m" 422 -

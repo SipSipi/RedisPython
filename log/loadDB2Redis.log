@@ -1,0 +1,129 @@
+2022-10-27 23:27:29,492:INFO:loadDB2Redis.py - Initiating loadDB2Redis.py
+2022-10-27 23:27:29,492:INFO:loadDB2Redis.py - Testing env file existence
+2022-10-27 23:27:29,492:INFO:loadDB2Redis.py - env test pass. loadDB2Redis.py system START
+2022-10-27 23:27:29,538:INFO:loadDB2Redis.py - loadDB2Redis.py system STOP
+2022-10-27 23:29:56,436:INFO:loadDB2Redis.py - Initiating loadDB2Redis.py
+2022-10-27 23:29:57,150:INFO:loadDB2Redis.py - Testing env file existence
+2022-10-27 23:30:00,912:INFO:loadDB2Redis.py - env test pass. loadDB2Redis.py system START
+2022-10-27 23:30:00,943:INFO:loadDB2Redis.py - loadDB2Redis.py system STOP
+2022-10-27 23:30:05,110:INFO:loadDB2Redis.py - Initiating loadDB2Redis.py
+2022-10-27 23:30:08,475:INFO:loadDB2Redis.py - Testing env file existence
+2022-10-27 23:30:12,761:INFO:loadDB2Redis.py - env test pass. loadDB2Redis.py system START
+2022-10-27 23:30:18,294:INFO:loadDB2Redis.py - loadDB2Redis.py system STOP
+2022-10-27 23:30:27,066:INFO:loadDB2Redis.py - Initiating loadDB2Redis.py
+2022-10-27 23:30:28,098:INFO:loadDB2Redis.py - Testing env file existence
+2022-10-27 23:30:31,357:INFO:loadDB2Redis.py - env test pass. loadDB2Redis.py system START
+2022-10-27 23:32:15,875:INFO:loadDB2Redis.py - Initiating loadDB2Redis.py
+2022-10-27 23:32:15,876:INFO:loadDB2Redis.py - Testing env file existence
+2022-10-27 23:32:15,876:INFO:loadDB2Redis.py - env test pass. loadDB2Redis.py system START
+2022-10-27 23:32:16,571:INFO:loadDB2Redis.py - infracit_sharedb.tref_pac_zone updated in redis
+2022-10-27 23:32:16,973:INFO:loadDB2Redis.py - infracit_sharedb.tref_bahanbakar updated in redis
+2022-10-27 23:32:17,382:INFO:loadDB2Redis.py - infracit_sharedb.tref_buatan updated in redis
+2022-10-27 23:32:18,802:INFO:loadDB2Redis.py - infracit_sharedb.tref_empdesignation updated in redis
+2022-10-27 23:32:19,186:INFO:loadDB2Redis.py - infracit_pbtdb.pbt_sor updated in redis
+2022-10-27 23:32:19,574:INFO:loadDB2Redis.py - infracit_sharedb.tref_state updated in redis
+2022-10-27 23:32:19,994:INFO:loadDB2Redis.py - infracit_sharedb.tref_district updated in redis
+2022-10-27 23:32:21,622:INFO:loadDB2Redis.py - infracit_sharedb.tref_rgo updated in redis
+2022-10-27 23:32:22,021:INFO:loadDB2Redis.py - infracit_sharedb.tref_pbt updated in redis
+2022-10-27 23:32:23,891:INFO:loadDB2Redis.py - infracit_sharedb.tref_taman updated in redis
+2022-10-27 23:32:24,286:INFO:loadDB2Redis.py - infracit_sharedb.tref_mukim updated in redis
+2022-10-27 23:32:25,757:INFO:loadDB2Redis.py - infracit_pbtdb.pbt_sor_item updated in redis
+2022-10-27 23:32:26,441:INFO:loadDB2Redis.py - infracit_pbtdb.pbt_sor_detailsitem updated in redis
+2022-10-27 23:32:28,084:INFO:loadDB2Redis.py - infracit_sharedb.tref_department updated in redis
+2022-10-27 23:32:29,536:INFO:loadDB2Redis.py - infracit_sharedb.tref_fin_year updated in redis
+2022-10-27 23:32:29,911:INFO:loadDB2Redis.py - infracit_sharedb.tref_pac_cate updated in redis
+2022-10-27 23:32:30,298:INFO:loadDB2Redis.py - infracit_sharedb.tref_pac_subcate updated in redis
+2022-10-27 23:32:30,856:INFO:loadDB2Redis.py - infracit_sharedb.tref_pac_status updated in redis
+2022-10-27 23:32:32,358:INFO:loadDB2Redis.py - infracit_sharedb.tref_asl_comstatus updated in redis
+2022-10-27 23:32:32,886:INFO:loadDB2Redis.py - infracit_sharedb.tref_asl_empdesignation updated in redis
+2022-10-27 23:32:33,268:INFO:loadDB2Redis.py - infracit_sharedb.tref_asl_plant updated in redis
+2022-10-27 23:32:33,679:INFO:loadDB2Redis.py - infracit_sharedb.tref_asl_regbody updated in redis
+2022-10-27 23:32:34,103:INFO:loadDB2Redis.py - infracit_sharedb.tref_asl_scopeofwork updated in redis
+2022-10-27 23:32:35,554:INFO:loadDB2Redis.py - infracit_sharedb.tref_asl_specialization updated in redis
+2022-10-27 23:32:37,084:INFO:loadDB2Redis.py - infracit_sharedb.tref_asl_swdesignation updated in redis
+2022-10-27 23:32:38,756:INFO:loadDB2Redis.py - infracit_sharedb.tref_asl_typeofcompany updated in redis
+2022-10-27 23:32:39,133:INFO:loadDB2Redis.py - infracit_sharedb.tref_nationality updated in redis
+2022-10-27 23:32:40,667:INFO:loadDB2Redis.py - infracit_sharedb.tref_jenis_aduan updated in redis
+2022-10-27 23:32:41,304:INFO:loadDB2Redis.py - infracit_sharedb.tref_dun updated in redis
+2022-10-27 23:32:41,724:INFO:loadDB2Redis.py - infracit_sharedb.tref_parliament updated in redis
+2022-10-27 23:32:42,102:INFO:loadDB2Redis.py - infracit_sharedb.tref_office_location updated in redis
+2022-10-27 23:32:43,618:INFO:loadDB2Redis.py - infracit_sharedb.tref_asset_code updated in redis
+2022-10-27 23:32:44,030:INFO:loadDB2Redis.py - infracit_sharedb.tref_asset_model updated in redis
+2022-10-27 23:32:44,476:INFO:loadDB2Redis.py - infracit_sharedb.tref_category_assets updated in redis
+2022-10-27 23:32:47,868:INFO:loadDB2Redis.py - infracit_sharedb.tref_itemlocations updated in redis
+2022-10-27 23:32:48,216:INFO:loadDB2Redis.py - infracit_sharedb.tref_model updated in redis
+2022-10-27 23:32:48,670:INFO:loadDB2Redis.py - infracit_sharedb.tref_jenisbadan updated in redis
+2022-10-27 23:32:49,044:INFO:loadDB2Redis.py - infracit_sharedb.tref_kelaskenderaan updated in redis
+2022-10-27 23:32:49,568:INFO:loadDB2Redis.py - infracit_sharedb.tref_enjin updated in redis
+2022-10-27 23:32:49,941:INFO:loadDB2Redis.py - infracit_sharedb.tref_status_kenderaan updated in redis
+2022-10-27 23:32:50,348:INFO:loadDB2Redis.py - infracit_sharedb.tref_emp_level updated in redis
+2022-10-27 23:32:51,831:INFO:loadDB2Redis.py - infracit_sharedb.tref_emp_levels updated in redis
+2022-10-27 23:32:52,230:INFO:loadDB2Redis.py - infracit_sharedb.tref_workstatus updated in redis
+2022-10-27 23:32:52,659:INFO:loadDB2Redis.py - infracit_sharedb.tref_filling_color updated in redis
+2022-10-27 23:32:53,044:INFO:loadDB2Redis.py - infracit_sharedb.tref_project updated in redis
+2022-10-27 23:32:54,542:INFO:loadDB2Redis.py - dangabay.tbl_claims_process updated in redis
+2022-10-27 23:32:55,003:INFO:loadDB2Redis.py - dangabay.tbl_claims_process_main updated in redis
+2022-10-27 23:32:55,004:INFO:loadDB2Redis.py - loadDB2Redis.py system STOP
+2022-10-28 12:22:22,983:INFO:loadDB2Redis.py - Initiating loadDB2Redis.py
+2022-10-28 12:22:22,985:INFO:loadDB2Redis.py - Testing env file existence
+2022-10-28 12:22:22,985:INFO:loadDB2Redis.py - env test pass. loadDB2Redis.py system START
+2022-10-28 12:25:07,523:INFO:loadDB2Redis.py - Initiating loadDB2Redis.py
+2022-10-28 12:25:07,523:INFO:loadDB2Redis.py - Testing env file existence
+2022-10-28 12:25:07,524:INFO:loadDB2Redis.py - env test pass. loadDB2Redis.py system START
+2022-10-28 12:28:40,845:INFO:loadDB2Redis.py - Initiating loadDB2Redis.py
+2022-10-28 12:28:40,845:INFO:loadDB2Redis.py - Testing env file existence
+2022-10-28 12:28:40,846:INFO:loadDB2Redis.py - env test pass. loadDB2Redis.py system START
+2022-10-28 12:33:20,278:INFO:loadDB2Redis.py - Initiating loadDB2Redis.py
+2022-10-28 12:33:22,153:INFO:loadDB2Redis.py - Testing env file existence
+2022-10-28 12:33:26,214:INFO:loadDB2Redis.py - env test pass. loadDB2Redis.py system START
+2022-10-29 00:27:09,797:INFO:loadDB2Redis.py - Initiating loadDB2Redis.py
+2022-10-29 00:27:09,798:INFO:loadDB2Redis.py - Testing env file existence
+2022-10-29 00:27:09,807:INFO:loadDB2Redis.py - env test pass. loadDB2Redis.py system START
+2022-10-29 00:27:10,476:INFO:loadDB2Redis.py - infracit_sharedb.tref_pac_zone updated in redis
+2022-10-29 00:27:10,946:INFO:loadDB2Redis.py - infracit_sharedb.tref_bahanbakar updated in redis
+2022-10-29 00:27:11,350:INFO:loadDB2Redis.py - infracit_sharedb.tref_buatan updated in redis
+2022-10-29 00:27:11,756:INFO:loadDB2Redis.py - infracit_sharedb.tref_empdesignation updated in redis
+2022-10-29 00:27:12,153:INFO:loadDB2Redis.py - infracit_pbtdb.pbt_sor updated in redis
+2022-10-29 00:27:12,567:INFO:loadDB2Redis.py - infracit_sharedb.tref_state updated in redis
+2022-10-29 00:27:14,043:INFO:loadDB2Redis.py - infracit_sharedb.tref_district updated in redis
+2022-10-29 00:27:14,641:INFO:loadDB2Redis.py - infracit_sharedb.tref_rgo updated in redis
+2022-10-29 00:27:15,024:INFO:loadDB2Redis.py - infracit_sharedb.tref_pbt updated in redis
+2022-10-29 00:27:16,689:INFO:loadDB2Redis.py - infracit_sharedb.tref_taman updated in redis
+2022-10-29 00:27:17,111:INFO:loadDB2Redis.py - infracit_sharedb.tref_mukim updated in redis
+2022-10-29 00:27:17,524:INFO:loadDB2Redis.py - infracit_pbtdb.pbt_sor_item updated in redis
+2022-10-29 00:27:19,175:INFO:loadDB2Redis.py - infracit_pbtdb.pbt_sor_detailsitem updated in redis
+2022-10-29 00:27:19,637:INFO:loadDB2Redis.py - infracit_sharedb.tref_department updated in redis
+2022-10-29 00:27:21,133:INFO:loadDB2Redis.py - infracit_sharedb.tref_fin_year updated in redis
+2022-10-29 00:27:22,685:INFO:loadDB2Redis.py - infracit_sharedb.tref_pac_cate updated in redis
+2022-10-29 00:27:23,357:INFO:loadDB2Redis.py - infracit_sharedb.tref_pac_subcate updated in redis
+2022-10-29 00:27:23,749:INFO:loadDB2Redis.py - infracit_sharedb.tref_pac_status updated in redis
+2022-10-29 00:27:24,169:INFO:loadDB2Redis.py - infracit_sharedb.tref_asl_comstatus updated in redis
+2022-10-29 00:27:24,730:INFO:loadDB2Redis.py - infracit_sharedb.tref_asl_empdesignation updated in redis
+2022-10-29 00:27:26,137:INFO:loadDB2Redis.py - infracit_sharedb.tref_asl_plant updated in redis
+2022-10-29 00:27:26,627:INFO:loadDB2Redis.py - infracit_sharedb.tref_asl_regbody updated in redis
+2022-10-29 00:27:27,049:INFO:loadDB2Redis.py - infracit_sharedb.tref_asl_scopeofwork updated in redis
+2022-10-29 00:27:28,483:INFO:loadDB2Redis.py - infracit_sharedb.tref_asl_specialization updated in redis
+2022-10-29 00:27:28,962:INFO:loadDB2Redis.py - infracit_sharedb.tref_asl_swdesignation updated in redis
+2022-10-29 00:27:29,387:INFO:loadDB2Redis.py - infracit_sharedb.tref_asl_typeofcompany updated in redis
+2022-10-29 00:27:29,963:INFO:loadDB2Redis.py - infracit_sharedb.tref_nationality updated in redis
+2022-10-29 00:27:30,353:INFO:loadDB2Redis.py - infracit_sharedb.tref_jenis_aduan updated in redis
+2022-10-29 00:27:31,794:INFO:loadDB2Redis.py - infracit_sharedb.tref_dun updated in redis
+2022-10-29 00:27:33,292:INFO:loadDB2Redis.py - infracit_sharedb.tref_parliament updated in redis
+2022-10-29 00:27:33,700:INFO:loadDB2Redis.py - infracit_sharedb.tref_office_location updated in redis
+2022-10-29 00:27:34,095:INFO:loadDB2Redis.py - infracit_sharedb.tref_asset_code updated in redis
+2022-10-29 00:27:35,631:INFO:loadDB2Redis.py - infracit_sharedb.tref_asset_model updated in redis
+2022-10-29 00:27:35,990:INFO:loadDB2Redis.py - infracit_sharedb.tref_category_assets updated in redis
+2022-10-29 00:27:36,413:INFO:loadDB2Redis.py - infracit_sharedb.tref_itemlocations updated in redis
+2022-10-29 00:27:37,838:INFO:loadDB2Redis.py - infracit_sharedb.tref_model updated in redis
+2022-10-29 00:27:39,247:INFO:loadDB2Redis.py - infracit_sharedb.tref_jenisbadan updated in redis
+2022-10-29 00:27:40,740:INFO:loadDB2Redis.py - infracit_sharedb.tref_kelaskenderaan updated in redis
+2022-10-29 00:27:41,112:INFO:loadDB2Redis.py - infracit_sharedb.tref_enjin updated in redis
+2022-10-29 00:27:41,573:INFO:loadDB2Redis.py - infracit_sharedb.tref_status_kenderaan updated in redis
+2022-10-29 00:27:42,004:INFO:loadDB2Redis.py - infracit_sharedb.tref_emp_level updated in redis
+2022-10-29 00:27:42,396:INFO:loadDB2Redis.py - infracit_sharedb.tref_emp_levels updated in redis
+2022-10-29 00:27:45,854:INFO:loadDB2Redis.py - infracit_sharedb.tref_workstatus updated in redis
+2022-10-29 00:27:46,323:INFO:loadDB2Redis.py - infracit_sharedb.tref_filling_color updated in redis
+2022-10-29 00:27:46,754:INFO:loadDB2Redis.py - infracit_sharedb.tref_project updated in redis
+2022-10-29 00:27:47,174:INFO:loadDB2Redis.py - dangabay.tbl_claims_process updated in redis
+2022-10-29 00:27:47,572:INFO:loadDB2Redis.py - dangabay.tbl_claims_process_main updated in redis
+2022-10-29 00:27:47,574:INFO:loadDB2Redis.py - loadDB2Redis.py system STOP
